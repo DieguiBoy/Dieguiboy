@@ -11,8 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Account-red
 )](mailto:llanesdiego5@gmail.com)
 ## About me
-- 🧪 QA Tester focused on real-world testing
-- 📂 Building a hands-on QA portfolio (Sign Up, Products, Cart, Checkout)
+- 🧪 QA Tester 
 - 🐞 Test case design & bug reporting
 - 🐍 Python enthusiast
 - 📊 Passionate about quality and user experience
